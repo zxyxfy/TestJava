@@ -13,7 +13,8 @@ public class HelloWorld implements IHelloWorld {
 
     public static void main(String[] args) {
         ArrayList<Object> objects = new ArrayList<>();
-        System.out.println("second commit");
+        System.out.println(Long.parseLong("1547")/100.00);
+        System.out.println("push commit");
     }
 
 
